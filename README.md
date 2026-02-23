@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as backend engineer	<br>👯 I’m looking to collaborate on AI applications<br>🌱 I’m currently learning full-stack development, AI application development<br>💬 Ask me about Golang, Python, MySQL, Redis,kafka<br>⚡ Fun fact: Saving up money to buy a bmw m3 e93
+🔭 I’m currently working as backend engineer	<br>👯 I’m looking to collaborate on AI applications<br>🌱 I’m currently learning full-stack development, AI application development<br>💬 Ask me about Golang, Python, MySQL, Redis,kafka<br>⚡ Fun fact: Saving up money to buy a bmw m3 e92
 
 
 ## 🌐 Socials:
