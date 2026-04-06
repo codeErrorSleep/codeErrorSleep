@@ -2,9 +2,6 @@
 👯 I’m looking to collaborate on AI applications<br>🌱 I’m currently learning full-stack development, AI application development<br>⚡ Saving up money to buy a bmw m3 e92
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qiushaotest@qq.com) 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeErrorSleep&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
