@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on AI applications<br>🌱 I’m currently learning full-stack development, AI application development<br>⚡ Saving up money to buy a bmw m3 e92
+👯 I’m looking to collaborate on AI applications<br>🌱 I’m currently learning full-stack development, AI application development<br>⚡ Saving up money to buy a bmw e92 m3 
 
 
 ### 🔝 Top Contributed Repo
